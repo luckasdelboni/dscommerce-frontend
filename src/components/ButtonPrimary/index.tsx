@@ -1,4 +1,4 @@
-import '../ButtonPrimary/styles.css'
+import './styles.css'
 
 export default function ButtonPrimary() {
 

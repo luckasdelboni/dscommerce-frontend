@@ -1,5 +1,5 @@
 import cartIcon from '../../assets/vector.png'
-import '../HeaderClient/styles.css'
+import './styles.css'
 
 export default function HeaderClient() {
 
